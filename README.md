@@ -53,7 +53,7 @@ Chaque fonctionnalité est accessible via une commande dédiée, grâce à Pytho
 
 - Python 3.7+
 - [Python Fire](https://github.com/google/python-fire)
-- Autres packages listés dans `requirements.txt` (ex : nltk, scikit-learn, pandas)
+- Autres packages listés dans `requirements.txt`
 
 ## Contribuer
 
